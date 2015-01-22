@@ -1,0 +1,8 @@
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\MathApp\MathApp\bin\Debug\MathApp.exe
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\MathApp\MathApp\bin\Debug\MathApp.pdb
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\MathApp\MathApp\obj\Debug\Math_Quiz_Game.Form1.resources
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\MathApp\MathApp\obj\Debug\MathApp.Properties.Resources.resources
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\MathApp\MathApp\obj\Debug\MathApp.csproj.GenerateResource.Cache
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\MathApp\MathApp\obj\Debug\MathApp.exe
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\MathApp\MathApp\obj\Debug\MathApp.pdb
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\MathApp\MathApp\obj\Debug\MathApp.csprojResolveAssemblyReference.cache
